@@ -31,7 +31,7 @@ Tequi-La-La Location
 #Features [ Have To Make ]
 Settings App [Tablet Options]
 Storeage + Shop App [Buy+Sell Items] Like Drinks + Food
-Billings App [Bill a Player by Id] 
+Billings App [Bill a Player by Id]
 Profile App [SetUp Your Profile On the Tablet]
 Map App [Display Members On Map]
 Webhook For Discord
