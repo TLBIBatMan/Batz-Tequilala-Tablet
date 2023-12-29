@@ -1,7 +1,16 @@
 # Batz-TequiLaLa-Tablet
-Tablet For Bruce's Bar
+Tablet For Tequi-La-La
 
 #Job : tequilala
+#Staff : 
+Owner - 
+Co-Owner - 
+Manager - 
+Bartender - 
+Head Cook - 
+Cook - 
+DJ - 
+Member - 
 
 #Photos : [ Would Have to Get Photos ]
 1-
