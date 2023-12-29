@@ -47,11 +47,11 @@ Settings App [Tablet Options]
 Storeage + Shop App [Buy+Sell Items] Like Drinks + Food.
 Billings App [Bill a Player by Id]
 Profile App [SetUp Your Profile On the Tablet]
-Map App [Display Members On Map]
+Map App [Display Members On Whole Map] [Like The QB-Policejob]
 Webhook For Discord
 Many More To Add
 
-#Easy locales system [Avaible Language]
+#Easy locales system [Available Language]
 English
 
 #Dependencies :
