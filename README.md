@@ -3,40 +3,40 @@ Tablet For Tequi-La-La
 
 #Job : tequilala
 
-| Staff Roles  |
-| -------------|
-| Owner        |
-| Co-Owner     |
-| Manager      |
-| Bartender    |
-| Head Cook    |
-| Cook         |
-| DJ           |
-| Member       |
+| Staff Roles   |
+| ------------- |
+| Owner         |
+| Co-Owner      |
+| Manager       |
+| Bartender     |
+| Head Cook     |
+| Cook          |
+| DJ            |
+| Member        |
 
 #Photos : [ Would Have to Get Photos ]
-1 -
-2 -
-3 -
-4 -
-5 -
-6 -
-7 -
-8 -
-9 -
-10 -
+1. -
+2. -
+3. -
+4. -
+5. -
+6. -
+7. -
+8. -
+9. -
+10. -
 
 #How To Work The Tablet
-1 -
-2 -
-3 -
-4 -
-5 -
-6 -
-7 -
-8 -
-9 -
-10 -
+1. -
+2. -
+3. -
+4. -
+5. -
+6. -
+7. -
+8. -
+9. -
+10. -
 
 #Installation :
 Drag And Drop
