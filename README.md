@@ -1,7 +1,7 @@
-# Batz-BrucesBar-Tablet
+# Batz-TequiLaLa-Tablet
 Tablet For Bruce's Bar
 
-#Job : BrucesBar
+#Job : tequilala
 
 #Photos : [ Would Have to Get Photos ]
 1-
