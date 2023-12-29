@@ -2,39 +2,41 @@
 Tablet For Tequi-La-La
 
 #Job : tequilala
-#Staff : 
-Owner - 
-Co-Owner - 
-Manager - 
-Bartender - 
-Head Cook - 
-Cook - 
-DJ - 
-Member - 
+
+| Staff Roles  |
+| -------------|
+| Owner        |
+| Co-Owner     |
+| Manager      |
+| Bartender    |
+| Head Cook    |
+| Cook         |
+| DJ           |
+| Member       |
 
 #Photos : [ Would Have to Get Photos ]
-1-
-2-
-3-
-4-
-5-
-6-
-7-
-8-
-9-
-10-
+1 -
+2 -
+3 -
+4 -
+5 -
+6 -
+7 -
+8 -
+9 -
+10 -
 
 #How To Work The Tablet
-1-
-2-
-3-
-4-
-5-
-6-
-7-
-8-
-9-
-10-
+1 -
+2 -
+3 -
+4 -
+5 -
+6 -
+7 -
+8 -
+9 -
+10 -
 
 #Installation :
 Drag And Drop
@@ -51,7 +53,7 @@ Map App [Display Members On Whole Map] [Like The QB-Policejob]
 Webhook For Discord
 Many More To Add
 
-#Easy locales system [Available Language]
+#Easy locales system [Available Language] For Now
 English
 
 #Dependencies :
